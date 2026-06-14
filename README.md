@@ -176,7 +176,9 @@ https://github.com/Hitesh20377/Bank-Churn-Prediction-System
 
 ---
 ## Research Paper Link
-https://www.overleaf.com/project/6a2b9b640480634ad8434b9c
+## Research Paper
+
+📄 [Read on Overleaf](https://www.overleaf.com/read/gdmckwsgvvxd#40d2b9)
 
 ---
 
