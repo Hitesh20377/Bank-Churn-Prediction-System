@@ -5,6 +5,12 @@
 The Bank Customer Churn Prediction System is an end-to-end Machine Learning and Business Analytics project designed to identify customers who are likely to leave the bank.
 
 The project combines data analysis, KPI monitoring, customer segmentation, machine learning prediction, and interactive dashboards to help businesses improve customer retention strategies.
+## 🔗 Quick Links
+
+- 🚀 Live Demo : [live](https://bank-churn-prediction-system.onrender.com/)
+- 📄 Research Paper :📄 [Read on Overleaf](https://www.overleaf.com/read/gdmckwsgvvxd#40d2b9)
+
+
 
 ---
 
@@ -164,23 +170,13 @@ streamlit run app/main.py
 
 ---
 
-## 🌐 Live Demo
-
-https://bank-churn-prediction-system.onrender.com/
-
----
 
 ## 🔗 GitHub Repository
 
 https://github.com/Hitesh20377/Bank-Churn-Prediction-System
 
 ---
-## Research Paper Link
-## Research Paper
 
-📄 [Read on Overleaf](https://www.overleaf.com/read/gdmckwsgvvxd#40d2b9)
-
----
 
 ## 👨‍💻 Author
 
